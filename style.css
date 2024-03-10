@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.fa-bars-staggered{
+    font-size: 20px;
+}
+nav{
+    cursor: pointer;
+}
+ul{
+    display: none;
+}
+.close{
+    cursor: pointer;
+}
